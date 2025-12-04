@@ -17,7 +17,7 @@ export function showStats(player) {
     const avgTimePerRiddle = totalTime / player.times.length
     console.log(`Player: ${player.name}`)
     console.log(`Riddles solved: ${player.times.length}`)
-    console.log(`Total time: ${totalTime} seconds`)
+    console.log(`Total time: ${totalTime.toFixed(2)} seconds`)
     console.log(`Average time per riddle: ${avgTimePerRiddle.toFixed(2)} seconds\n`)
 }
 
