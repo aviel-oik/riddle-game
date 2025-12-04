@@ -1,0 +1,24 @@
+{
+  "name": "riddle-game",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000i\u0000d\u0000d\u0000l\u0000e\u0000-\u0000g\u0000a\u0000m\u0000e\u0000\r\u0000 \u0000A\u0000v\u0000i\u0000e\u0000l\u0000 \u0000O\u0000i\u0000k\u0000n\u0000i\u0000n\u0000e\u0000 \u00003\u00002\u00009\u00009\u00006\u00009\u00006\u00001\u00002\u0000 \u0000H\u0000E\u0000R\u0000M\u0000O\u0000N\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviel-oik/riddle-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aviel-oik/riddle-game/issues"
+  },
+  "homepage": "https://github.com/aviel-oik/riddle-game#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
